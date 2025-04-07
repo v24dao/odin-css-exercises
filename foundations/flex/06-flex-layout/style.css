@@ -26,7 +26,7 @@ input {
 }
 
 /* SOLUTION */
-
+/* Could have put display flex on 'ul' instead of both '.left-links' and '.right-links' */
 body,
 .header,
 .content,
